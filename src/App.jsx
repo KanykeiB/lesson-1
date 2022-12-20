@@ -1,6 +1,6 @@
 
 import './App.css';
-import Posts from './components/content/content/index'
+import Posts from './components/content'
 
 const DATA = [
   {
