@@ -1,0 +1,12 @@
+.idText{
+    color:blue;
+}
+.blockWrap{
+    text-align: center;
+    width:900px;
+    margin: 0 auto;
+    border: 1px dashed antiquewhite
+}
+.bodyText{
+    color: green;
+}
